@@ -13,10 +13,10 @@ LegalEase is designed to simplify the legal process by offering tools, resources
 - **Community Support**: Join a network of users sharing knowledge and experiences.
 
 ## Get Started
-Ready to simplify your legal journey? [Visit HandyLegal](https://legalease.example.com) or explore the code and contribute right here on GitHub!
+Ready to simplify your legal journey? [Visit HandyLegal](https://HandyLegal.example.com) or explore the code and contribute right here on GitHub!
 
 ## Contact Us
-Have questions or want to collaborate? Reach out at [support@legalease.com](mailto:support@legalease.com) or join our [Discord community](https://discord.gg/legalease).
+Have questions or want to collaborate? Reach out at [support@HandyLegal.com](mailto:support@HandyLegal.com) or join our [Discord community](https://discord.gg/HandyLegal).
 
 _The law is in your hands!_
 ---
